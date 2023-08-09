@@ -7,6 +7,10 @@ PIN - 2 TO PIN - A3 FOR Output
 
 PIN - 2 TO PIN - A3 FOR Output
 
+ON button is ON the 15 led continue with 200ms 
+
+OFF Button is Off the 15 led Continue with 200ms
+
 
 ## Screenshots
 
